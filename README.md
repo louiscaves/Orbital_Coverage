@@ -1,2 +1,2 @@
 # Orbital_Coverage
-Determination of Orbital Coverage for observatory scheduling
+This repository contains calculations and simulations related to the determination of orbital coverage of space objects with respect to ground-based observatories. Various orbital coverage metrics are evaluated to assess the effectiveness of maintaining custody of many space objects simultaneously from limited observation points. The end result of these simulations shall be to determine optimal ground-based observatory scheduling.
